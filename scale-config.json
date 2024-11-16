@@ -1,0 +1,20 @@
+{
+  "SCALE_01": {
+    "ip": "localhost",
+    "port": 3002,
+    "description": "Timbangan Tebu 1",
+    "updatedAt": "2024-11-04T12:00:00.000Z"
+  },
+  "SCALE_02": {
+    "ip": "localhost",
+    "port": 3003,
+    "description": "Timbangan Tebu 2",
+    "updatedAt": "2024-11-04T12:00:00.000Z"
+  },
+  "SCALE_03": {
+    "ip": "127.0.0.1",
+    "port": 3005,
+    "description": "Timbangan deket gudang",
+    "updatedAt": "2024-11-16T21:41:49.658Z"
+  }
+}
