@@ -2,7 +2,7 @@
 
 A real-time scale monitoring system built with Node.js that allows you to collect weight data from multiple scales through TCP connections and expose them via a REST API.
 
-![Scale Monitoring System Architecture](./docs/architecture.svg)
+![Scale Monitoring System Architecture](./architecture.png)
 
 ## 🌟 Features
 
